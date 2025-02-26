@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Review</title>
+</head>
+<body>
+    <h1>Best Movies of Tamil Cinema</h1>
+    <p>In this page, we will review some fine movies of Tamil Cinema.</p>
+    <hr>
+    <h2>Feel Good Movie Genre</h2>
+    <hr>
+    <h3><i>1.Rhythm Movie</i></h3>
+    <p>This movie is the evergreen feel good movie released on 2005. The movie was directed by Vasanth. This movie revolves around two characters Karthikeyan (Arjun) and Chithra (Meena) and their families. This movie shows that there is a love after a we lose our soulmates. A.R.Rahman had made this movie more touchable. The movie holds 5 songs and each song highlights the five elements of the Earth. Jyotika, Nagesh, Ramesh Aravind, Lakshmi, Mohan Raman and Manivanan played important roles in the movie.</p>
+    <a href="https://www.youtube.com/watch?v=bZRb6nlgU1o"target="_blank">Click here to watch Rhythm</a>
+    <hr>
+    <h3><i>2.Mozhi Movie</i></h3>
+    <p>This movie is the most humble feel good movie released on 2007. The movie was directed by Radha Mohan.This movie focuses on four characters Karthik (Prithviraj), Archana (Jyothika), Viji (Prakash Raj), Augustine Sheela (Swarnamalya). The plot revolves with mostly of 10 characters and it beautifully showed how each one needs love. It also shows none should be afraid to fall in love due to their disabilities. The Music Director Vidyasagar played a very important role in elevating the movie through his songs and BGM.</p>
+    <a href="https://www.youtube.com/watch?v=OhNDoZLPW-I"target="_blank">Click here to watch Mozhi</a>
+    <hr>
+    <p><b>Now let's dive in into other genre.</b></p>
+    <br>
+    <hr>
+    <h2>Crime Thriller Genre</h2>
+    <hr>
+    <h3><i>1.Ratsasan Movie</i></h3>
+    <p>This movie is the best physco thriller movie released on 2018. &nbsp&nbsp&nbspThe movie was directed by Ram Kumar. This movie focuses on a physco who murders school girls in a brutal way and how a constable finds the physco. This movie also focuses how female students are being abused by teachers. The movie shows how a childhood trauma can change the character of a person. Ghibhran had made this movie more thrilling. His BGM for the villain is the most perfect BGM for this genre movies. Vishnu Vishal, Amala Paul, Abhirami, Munishkanth have acted in this movie.</p>
+    <a href="https://www.youtube.com/watch?v=240uS-5trUw"target="_blank">Click here to watch Ratsasan</a>
+    <hr>
+    <h3><i>2.Por Thozhil Movie</i></h3>
+    <p>This movie is the best physco thriller movie released on 2023. The movie was directed by Vignesh Raja. This movie focuses on a physco who murders girls with dimples in a brutal way due to his personal life incidents. It also focuses on a pair of Police (an Expert and a New Joinee) whom the case of this physco is assigned. Sarathkumar, Ashok Selvan, Nikhila Vimal, Sunil played an important roles in this movie. This movie mainly highlights how a childhood trauma or person with no love can change the character of the individual and soceity. Music is done by Jakes Bejoy. The music keeps the movie more thrilling.</p>
+    <a href="https://www.youtube.com/watch?v=M0HKl5F3KRI"target="_blank">Click here to watch Por Thozil</a>
+    <hr>
+    <br>
+</body>
+</html>
